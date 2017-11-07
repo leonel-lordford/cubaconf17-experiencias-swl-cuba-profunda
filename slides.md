@@ -24,7 +24,7 @@
 
 ---
 
-## ¿Porqué esta presentación?
+## ¿Por qué esta presentación?
 
 ------
 
@@ -104,7 +104,7 @@ Holguín
 --
 
 Granma
-- mayor cantidad de programas libres desarrollados en el país
+- mayor cantidad de programas libres desarrollados en Cuba
 - hosting de [RepoGUTL](http://www.grm.jovenclub.cu/repogutl/)
 - 1 de los principales defensores del SWL en el país
 - 1 de los editores del [portal GUTL](http://gutl.jovenclub.cu)
@@ -249,8 +249,8 @@ Actividades de recreación
 
 ------
 
-* 8 años de GUTL
-* RepoGUTL es una realidad
+* 8 años de [GUTL](http://gutl.jovenclub.cu)
+* [RepoGUTL](http://www.grm.jovenclub.cu/repogutl/) es una realidad
 * Presencia en [CubaConf](https://www.cubaconf.org)
 
 ---
